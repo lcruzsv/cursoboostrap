@@ -1,0 +1,26 @@
+/* 01 - Textos  */
+body{
+	color:#777;
+}
+h4{
+	font-weight: bold;
+}
+
+h1{
+	color:white;
+	font-weight: bold;
+}
+
+.centrado{
+	text-align: center;
+}
+
+.testimonios{
+	
+}
+
+.purchase {
+    background: url(../images/parallax/blur-1867745_1280.jpg ) no-repeat;
+    background-attachment: fixed;
+    padding: 100px 0;
+}
