@@ -7,20 +7,84 @@ h4{
 }
 
 h1{
-	color:white;
+	color:black;
+	font-size: 5em;
 	font-weight: bold;
+	text-shadow: 5px 5px 15px #aaa;
 }
+
+.intro{
+	padding: 2vw;
+	background-color: #DE691A;
+}
+
+.intro h1, .intro p{
+	color: #fff;
+}
+
 
 .centrado{
 	text-align: center;
 }
 
 .testimonios{
-	
+
 }
 
+.caracteristica {
+	padding: 25px;
+}
+
+.carousel-inner .item{
+	height: 250px;
+	background-color: #222;
+}
 .purchase {
     background: url(../images/parallax/blur-1867745_1280.jpg ) no-repeat;
     background-attachment: fixed;
     padding: 100px 0;
+		border-bottom-style: solid;
+		border-bottom-width: 2px;
+}
+
+.estadisticas {
+    background: url(../images/parallax/macbook-606763_1920.jpg ) no-repeat;
+    background-attachment: fixed;
+    padding: 100px 0;
+		border-bottom-style: solid;
+		border-bottom-width: 2px;
+		border-top-style: solid;
+		border-top-width: 2px;
+}
+
+ .video{
+	 
+ }
+
+.estadisticas h4{
+	font-size: 2em;
+	color: #fff;
+	text-shadow: 2px 2px 10px #000;
+
+}
+.texto-estadisticas{
+	font-size: 2em;
+	color: #fff;
+	text-shadow: 2px 2px 10px #000;
+}
+
+.estadistica{
+		padding: 25px;
+}
+
+.preguntas{
+		background-color: #222;
+		color:#bbb;
+		padding: 5vw;
+	}
+
+.pregunta{
+	font-weight: bold;
+	padding: 10px;
+	font-size: 120%;
 }
