@@ -14,7 +14,7 @@ h1{
 }
 
 .intro{
-	padding: 2vw;
+	padding: 10vh 0 10vh 0;
 	background-color: #DE691A;
 }
 
@@ -27,8 +27,8 @@ h1{
 	text-align: center;
 }
 
-.testimonios{
-
+.caracteristicas{
+	padding: 25px;
 }
 
 .caracteristica {
@@ -36,10 +36,10 @@ h1{
 }
 
 .carousel-inner .item{
-	height: 250px;
+	height: 350px;
 	background-color: #222;
 }
-.purchase {
+.comprar {
     background: url(../images/parallax/blur-1867745_1280.jpg ) no-repeat;
     background-attachment: fixed;
     padding: 100px 0;
@@ -57,9 +57,7 @@ h1{
 		border-top-width: 2px;
 }
 
- .video{
-	 
- }
+
 
 .estadisticas h4{
 	font-size: 2em;
