@@ -13,6 +13,12 @@ h1{
 	text-shadow: 5px 5px 15px #aaa;
 }
 
+
+.centrado{
+	text-align: center;
+}
+
+/* Seccion intro */
 .intro{
 	padding: 10vh 0 10vh 0;
 	background-color: #DE691A;
@@ -22,11 +28,7 @@ h1{
 	color: #fff;
 }
 
-
-.centrado{
-	text-align: center;
-}
-
+/* Seccion de caracteristicas */
 .caracteristicas{
 	padding: 25px;
 }
@@ -35,10 +37,13 @@ h1{
 	padding: 25px;
 }
 
+/* Seccion Testimonios */
 .carousel-inner .item{
 	height: 350px;
 	background-color: #222;
 }
+
+/* Seccion comprar */
 .comprar {
     background: url(../images/parallax/blur-1867745_1280.jpg ) no-repeat;
     background-attachment: fixed;
@@ -47,6 +52,8 @@ h1{
 		border-bottom-width: 2px;
 }
 
+
+/* Seccion estadisticas */
 .estadisticas {
     background: url(../images/parallax/macbook-606763_1920.jpg ) no-repeat;
     background-attachment: fixed;
@@ -56,8 +63,6 @@ h1{
 		border-top-style: solid;
 		border-top-width: 2px;
 }
-
-
 
 .estadisticas h4{
 	font-size: 2em;
@@ -75,6 +80,7 @@ h1{
 		padding: 25px;
 }
 
+/* Seccion de preguntas */
 .preguntas{
 		background-color: #222;
 		color:#bbb;
